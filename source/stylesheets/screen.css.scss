@@ -173,8 +173,19 @@ html, body {
     font-weight: 500;
   }
 
+  .toc-list-h3 {
+    display: none;
+    background-color: $nav-subsubitem-bg;
+    font-weight: 500;
+  }
+
   .toc-h2 {
     padding-left: $nav-padding + $nav-indent;
+    font-size: 12px;
+  }
+
+  .toc-h3 {
+    padding-left: $nav-padding + $nav-indent*2;
     font-size: 12px;
   }
 
@@ -330,6 +341,10 @@ html, body {
     clear: both;
   }
 
+  &>p {
+    max-width: 60%;
+  }
+
   &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>p, &>table, &>ul, &>ol, &>aside, &>dl {
     margin-right: $examples-width;
     padding: 0 $main-padding;
@@ -344,7 +359,7 @@ html, body {
   }
 
   // the div is the tocify hidden div for placeholding stuff
-  &>h1, &>h2, &>div {
+  &>h1, &>h2, &>h3, &>div {
     clear:both;
   }
 

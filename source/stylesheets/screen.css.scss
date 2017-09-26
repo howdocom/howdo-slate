@@ -521,9 +521,6 @@ html, body {
     margin: 0;
     width: $examples-width;
 
-    float:right;
-    clear:right;
-
     box-sizing: border-box;
 
     @extend %right-col;

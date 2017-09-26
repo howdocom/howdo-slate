@@ -345,13 +345,19 @@ html, body {
     max-width: 60%;
   }
 
-  &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>p, &>table, &>ul, &>ol, &>aside, &>dl {
+  &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>p, &>table, &>ul, &>ol, &>aside, &>dl, &>blockquote {
     margin-right: $examples-width;
     padding: 0 $main-padding;
     box-sizing: border-box;
     display: block;
 
     @extend %left-col;
+  }
+
+  &>blockquote {
+    margin-left: $main-padding;
+    padding-left: $main-padding/2;
+    border-left: 3px solid rgba(0,0,0,0.1);
   }
 
   &>ul, &>ol {
@@ -521,48 +527,6 @@ html, body {
     border-radius: 4px;
     border: 1px solid #F7E633;
     background: linear-gradient(to top left, #F7E633 0%, #F1D32F 100%);
-  }
-}
-
-////////////////////////////////////////////////////////////////////////////////
-// CODE SAMPLE STYLES
-////////////////////////////////////////////////////////////////////////////////
-// This is all the stuff that appears in the right half of the page
-
-.content {
-  pre, blockquote {
-    background-color: $code-bg;
-    color: #fff;
-
-    margin: 0;
-    width: $examples-width;
-
-    box-sizing: border-box;
-
-    @extend %right-col;
-
-    &>p { margin: 0; }
-
-    a {
-      color: #fff;
-      text-decoration: none;
-      border-bottom: dashed 1px #ccc;
-    }
-  }
-
-  pre {
-    @extend %code-font;
-    padding-top: 2em;
-    padding-bottom: 2em;
-    padding: 2em $main-padding;
-  }
-
-  blockquote {
-    &>p {
-      background-color: $code-annotation-bg;
-      padding: $code-annotation-padding 2em;
-      color: #eee;
-    }
   }
 }
 

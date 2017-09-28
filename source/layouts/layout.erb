@@ -85,14 +85,13 @@ under the License.
           </li>
         <% end %>
       </div>
-      <% if current_page.data.toc_footers %>
-        <ul class="toc-footer">
-          <% current_page.data.toc_footers.each do |footer| %>
-            <li><%= footer %></li>
-          <% end %>
-          <li>Want to contribute to HowDo.com? <a href="mailto:content@howdo.com">Get in touch</a></li>
-        </ul>
-      <% end %>
+      <ul class="toc-footer">
+        <% (current_page.data.toc_footers || []).each do |footer| %>
+          <li><%= footer %></li>
+        <% end %>
+        <li>Want to contribute to HowDo.com?</li>
+        <li><a href="mailto:content@howdo.com">Get in touch</a></li>
+      </ul>
     </div>
     <div class="page-wrapper">
       <div class="content">

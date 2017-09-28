@@ -1,10 +1,6 @@
 ---
 title: API Reference
 
-toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
-
 search: true
 ---
 
@@ -20,16 +16,16 @@ Image Source: INSERT
 The 3 month program may have been discovered on accident but it helped create a new dimension of startup support that leverages the time constraint. While the most public accelerators (Y Combinator and Techstars) have chosen the 3 month approach, organizations should design their programs according to the type of product they are focusing on and the amount of capital they have available. 
 
 ### Considerations for Program Length: Type of Product
-[WP IMPORT: BLOCKQUOTE] “What is perhaps most important is that the programme is long enough that startup founders can develop a demo product and be able to pitch it by the end of the programme. As seed accelerators expand outside of web applications, this will become even more difficult to achieve within the 3-month window. While writing a web application can be done in just a few months, if the company requires a physical product to be built the time required before a true demo is ready will be much longer. Even at Y Combinator, typically only half to three-quarters of the startups funded are able to launch before the programme Demo Day. New programme founders should specifically think about the reasons behind the length of their accelerator programme. Copying Y Combinator without a reason is a poor choice.” (Jed D. Christiansen - Report) 
+> “What is perhaps most important is that the programme is long enough that startup founders can develop a demo product and be able to pitch it by the end of the programme. As seed accelerators expand outside of web applications, this will become even more difficult to achieve within the 3-month window. While writing a web application can be done in just a few months, if the company requires a physical product to be built the time required before a true demo is ready will be much longer. Even at Y Combinator, typically only half to three-quarters of the startups funded are able to launch before the programme Demo Day. New programme founders should specifically think about the reasons behind the length of their accelerator programme. Copying Y Combinator without a reason is a poor choice.” (Jed D. Christiansen - Report) 
 
-[WP IMPORT: BLOCKQUOTE] “Most of the existing accelerators to date have operated in the software or mobile applications arena, an industry characterized by relatively low capital requirements and short prototyping durations.”  (SBA, Report)  
+> “Most of the existing accelerators to date have operated in the software or mobile applications arena, an industry characterized by relatively low capital requirements and short prototyping durations.”  (SBA, Report)  
 
-[WP IMPORT: BLOCKQUOTE] “...But we kept the 3-month cycle because it is a good length of time to build a version 1. Some startups may not be able to launch in such a short time, but they should all be able to build something impressive.” (Paul Graham, Interview)
+> “...But we kept the 3-month cycle because it is a good length of time to build a version 1. Some startups may not be able to launch in such a short time, but they should all be able to build something impressive.” (Paul Graham, Interview)
 
 ### Considerations for Program Length: Efficiency/Cost 
-[WP IMPORT: BLOCKQUOTE] “In addition to the ‘tough love’ benefits that a short, intense, focused time frame offers startups, the limited duration is essential to controlling costs and increasing the number of startups in the accelerator’s portfolio. This in turn increases the expected profit of the accelerator by increasing the probability of one or more high value exits into the marketplace.” (SBA , Report) 
+> “In addition to the ‘tough love’ benefits that a short, intense, focused time frame offers startups, the limited duration is essential to controlling costs and increasing the number of startups in the accelerator’s portfolio. This in turn increases the expected profit of the accelerator by increasing the probability of one or more high value exits into the marketplace.” (SBA , Report) 
 
-[WP IMPORT: BLOCKQUOTE] “Part of the power of the accelerator is that it's a constrained period of time.” (Brad Feld, Video Interview)
+> “Part of the power of the accelerator is that it's a constrained period of time.” (Brad Feld, Video Interview)
 
 ## Location 
 [WP IMPORT: BLOCKQUOTE & CENTER JUSTIFY & ITALICIZE] “There is a start-up revolution occurring. Every major metro area in the world will eventually be able to support an accelerator.”  (Brad Feld, Interview)
@@ -60,15 +56,15 @@ Can You Buy a Silicon Valley? Maybe: A less technical overview of what can make 
 ## Industry/Sector Focus
 The accelerator space is saturated with incumbents that have controlled the generic market for years. Most corporate accelerators have addressed their lagged entry by focusing on their specific vertical. 
 
-[WP IMPORT: BLOCKQUOTE] “Corporate accelerators are concentrated in two industries that are being transformed by digital technologies. Fifty percent of corporations that have launched accelerators are within the technology, media, and telecom industry; 23 percent are in financial services. Corporations within these industries should pay particular attention to this emerging innovation model—as their competitors already are. Corporations in industries with lower accelerator adoption may want to explore the model as a distinctive innovation tactic that may help drive unique capabilities among their peers.” (Deloitte, Article)
+> “Corporate accelerators are concentrated in two industries that are being transformed by digital technologies. Fifty percent of corporations that have launched accelerators are within the technology, media, and telecom industry; 23 percent are in financial services. Corporations within these industries should pay particular attention to this emerging innovation model—as their competitors already are. Corporations in industries with lower accelerator adoption may want to explore the model as a distinctive innovation tactic that may help drive unique capabilities among their peers.” (Deloitte, Article)
 
-[WP IMPORT: BLOCKQUOTE] “Deep sector focus oriented towards a startup’s maturity level is a significant value-add for a startup. There is a striking relationship between sector focus and our success metric. We find that 70% of those in the top quartile of success have a deep sector focus; the second and third quartile both have 50% who have a sector focus and only 10% of those in the lowest quartile of success have a sector focus.” (Unitus Seed Fund, Survey)
+> “Deep sector focus oriented towards a startup’s maturity level is a significant value-add for a startup. There is a striking relationship between sector focus and our success metric. We find that 70% of those in the top quartile of success have a deep sector focus; the second and third quartile both have 50% who have a sector focus and only 10% of those in the lowest quartile of success have a sector focus.” (Unitus Seed Fund, Survey)
 
-[WP IMPORT: BLOCKQUOTE] “A major benefit of focusing on teams in one sector is that the ventures benefit from sharing expertise because they are working on related problems or technologies. Similar teams in one cohort also facilitate collaborating with investors and partners who are active in the particular sector.” (Thomas Kohler, Study)
+> “A major benefit of focusing on teams in one sector is that the ventures benefit from sharing expertise because they are working on related problems or technologies. Similar teams in one cohort also facilitate collaborating with investors and partners who are active in the particular sector.” (Thomas Kohler, Study)
 
-[WP IMPORT: BLOCKQUOTE] “By concentrating on one specific sector, the accelerator management team can develop the necessary sector–specific knowledge and expertise to identify and exploit the economic potential of entrepreneurial teams.” (Nesta, Report)
+> “By concentrating on one specific sector, the accelerator management team can develop the necessary sector–specific knowledge and expertise to identify and exploit the economic potential of entrepreneurial teams.” (Nesta, Report)
 
-[WP IMPORT: BLOCKQUOTE] “Sitting side-by-side and engaging deeply with larger corporations in a startup-up’s area of focus opens up access to global value chains and allows them to take advantage of other synergies that accelerate a business, including hands-on mentorship and exposure to the corporate partner’s executives, employees, and customers.” (DEEP Centre, Report)
+> “Sitting side-by-side and engaging deeply with larger corporations in a startup-up’s area of focus opens up access to global value chains and allows them to take advantage of other synergies that accelerate a business, including hands-on mentorship and exposure to the corporate partner’s executives, employees, and customers.” (DEEP Centre, Report)
 
 Introduction to slide
 
@@ -107,19 +103,19 @@ While understanding financials is clearly necessary for investment readiness, we
 “Startups most requested courses on user experience, digital marketing, and SEO optimization.“ (IMPACT Accelerator, Whitepaper)
 
 ### Educational Program Structure
-[WP IMPORT: BLOCKQUOTE] “‘Less is more’ when it comes to program content. Programs where entrepreneurs spend a lot of time in the classroom — listening to guest speakers or to us teaching — have inferior outcomes. The more remote work we allow, the better. Accelerators would do well to design content as something that entrepreneurs do remotely as they work on their businesses, and save the on-site time for building valuable relationships.“ (GALI, Report)
+> “‘Less is more’ when it comes to program content. Programs where entrepreneurs spend a lot of time in the classroom — listening to guest speakers or to us teaching — have inferior outcomes. The more remote work we allow, the better. Accelerators would do well to design content as something that entrepreneurs do remotely as they work on their businesses, and save the on-site time for building valuable relationships.“ (GALI, Report)
 
-[WP IMPORT: BLOCKQUOTE] “Much of the benefits of accelerator participation likely stems from accelerators providing opportunities for indirect learning that help entrepreneurs correct known and unknown flaws and gaps in their initial business plans and identify unexpected possibilities for improvements (e.g., target customer, go-to-market plan, technology and operations strategy, profit formula).” (Hallan, Bingham, Cohen, Report)
+> “Much of the benefits of accelerator participation likely stems from accelerators providing opportunities for indirect learning that help entrepreneurs correct known and unknown flaws and gaps in their initial business plans and identify unexpected possibilities for improvements (e.g., target customer, go-to-market plan, technology and operations strategy, profit formula).” (Hallan, Bingham, Cohen, Report)
 
 Some accelerators are beginning to blend online education with the accelerator experience. This allows founders to spend more time building their networks and more time building their product.
 Y Combinator’s Startup School 
 “Evaluations revealed that online courses are greatly appreciated and many startups register for more courses than IMPACT required. However, we also observed that courses can be demanding and some startups drop out of extra courses, mainly due to work overloads related to closing investment rounds or important partnerships.” (IMPACT Accelerator, Whitepaper)
 
 ### Location
-[WP IMPORT: BLOCKQUOTE] “Accelerators that operate in regions without a strong history of entrepreneurship will need to create a more comprehensive educational programme, while accelerators that focus on more experienced entrepreneurs can likely be successful with a more tailored educational programme.” (Jed D. Christiansen - Report) 
+> “Accelerators that operate in regions without a strong history of entrepreneurship will need to create a more comprehensive educational programme, while accelerators that focus on more experienced entrepreneurs can likely be successful with a more tailored educational programme.” (Jed D. Christiansen - Report) 
 
 ### Cohort Size
-[WP IMPORT: BLOCKQUOTE] “In larger education programmes, the advice must be biased toward the general in order to be effective. But product-specific advice and education can be invaluable to the long-term success of a company, and should be included as a part of every accelerator programme.” (Jed D. Christiansen - Report)  
+> “In larger education programmes, the advice must be biased toward the general in order to be effective. But product-specific advice and education can be invaluable to the long-term success of a company, and should be included as a part of every accelerator programme.” (Jed D. Christiansen - Report)  
 
 Examples of general entrepreneur education curricula aimed at larger/industry agnostic cohorts: 
 Startup School by Y Combinator
@@ -162,7 +158,7 @@ Deloitte, Article
 ### Outreach
 “Even the most successful incubator/accelerators with established brands put a significant amount of effort into sourcing potential startups for each cohort.” (Unitus Seed Fund, Survey)
 
-[WP IMPORT: BLOCKQUOTE] “The way we recruit the best people in the world is by reaching them via multiple channels. So the alumni work is really important, hacker news is really important, putting great content online is really important, I taught a class…... that got millions and millions of views. For that applicant cycle, our applicant rate went up 40 or 50% — 60%.” (Sam Altman, Interview (10:35))
+> “The way we recruit the best people in the world is by reaching them via multiple channels. So the alumni work is really important, hacker news is really important, putting great content online is really important, I taught a class…... that got millions and millions of views. For that applicant cycle, our applicant rate went up 40 or 50% — 60%.” (Sam Altman, Interview (10:35))
 
 Accelerators recruit entrepreneurs through a host of different channels. The most common sources cited by accelerators include:
 Referrals from entrepreneurs affiliated with the accelerator,
@@ -208,23 +204,23 @@ Image Source: Hoffman, Radojevich-Kelley, Study
 Selecting startups to participate in an accelerator isn’t a black and white process. Accelerators that have been around for 10+ years admit that it’s messy and imperfect. As you can see above, some accelerators prioritize completely different traits.  That being said, there is much to learn from older accelerators experience. 
 
 ### General Traits 
-[WP IMPORT: BLOCKQUOTE] “So we've learned as much as we can about what makes a great company and we try to make our best guess in 10 minutes and we try to learn, sort of, what the characteristics of a founder are. Clarity of vision, clarity of explanation, determination, passion. Some evidence that they have done something great in the past or they have on this company.” (Sam Altman, Interview (31:41))
+> “So we've learned as much as we can about what makes a great company and we try to make our best guess in 10 minutes and we try to learn, sort of, what the characteristics of a founder are. Clarity of vision, clarity of explanation, determination, passion. Some evidence that they have done something great in the past or they have on this company.” (Sam Altman, Interview (31:41))
 
-[WP IMPORT: BLOCKQUOTE] “We thought when we started Y Combinator that the most important quality would be intelligence. That's the myth in the Valley. And certainly you don't want founders to be stupid. But as long as you're over a certain threshold of intelligence, what matters most is determination.” (Paul Graham, Essay) 
-[WP IMPORT: BLOCKQUOTE] “Sam Altman of Loopt is one of the most successful alumni, so we asked him what question we could put on the Y Combinator application that would help us discover more people like him. He said to ask about a time when they'd hacked something to their advantage—hacked in the sense of beating the system, not breaking into computers. It has become one of the questions we pay most attention to when judging applications.” (Paul Graham, Essay) 
+> “We thought when we started Y Combinator that the most important quality would be intelligence. That's the myth in the Valley. And certainly you don't want founders to be stupid. But as long as you're over a certain threshold of intelligence, what matters most is determination.” (Paul Graham, Essay) 
+> “Sam Altman of Loopt is one of the most successful alumni, so we asked him what question we could put on the Y Combinator application that would help us discover more people like him. He said to ask about a time when they'd hacked something to their advantage—hacked in the sense of beating the system, not breaking into computers. It has become one of the questions we pay most attention to when judging applications.” (Paul Graham, Essay) 
 
-[WP IMPORT: BLOCKQUOTE] “The relationship between the founders has to be strong. They must genuinely like one another, and work well together. Startups do to the relationship between the founders what a dog does to a sock: if it can be pulled apart, it will be.” (Paul Graham, Essay) 
+> “The relationship between the founders has to be strong. They must genuinely like one another, and work well together. Startups do to the relationship between the founders what a dog does to a sock: if it can be pulled apart, it will be.” (Paul Graham, Essay) 
 
-[WP IMPORT: BLOCKQUOTE] “Top accelerators have an expressed preference for startup teams rather than individuals.” (Sheryl Winston Smith, Thomas J. Hannigan, Research)
+> “Top accelerators have an expressed preference for startup teams rather than individuals.” (Sheryl Winston Smith, Thomas J. Hannigan, Research)
 
 ### Selection Process
-[WP IMPORT: BLOCKQUOTE] “Accelerators devote a significant amount of resources upfront to the recruitment and selection process. While 7% of accelerators spend less than a month on recruitment activities, 33% spend between three months and one year on recruitment. Most commonly, 60% of the accelerators surveyed spend between one and three months recruiting each new cohort.” (Aspen Institute, Report)
+> “Accelerators devote a significant amount of resources upfront to the recruitment and selection process. While 7% of accelerators spend less than a month on recruitment activities, 33% spend between three months and one year on recruitment. Most commonly, 60% of the accelerators surveyed spend between one and three months recruiting each new cohort.” (Aspen Institute, Report)
 
-[WP IMPORT: BLOCKQUOTE] “Most accelerators spend between one to three months recruiting each cohort, although some may spend longer on the process. This investment of time is necessary, thanks to the complexity involved in identifying early–stage ideas or ventures with potential.” (NESTA, Guide)
+> “Most accelerators spend between one to three months recruiting each cohort, although some may spend longer on the process. This investment of time is necessary, thanks to the complexity involved in identifying early–stage ideas or ventures with potential.” (NESTA, Guide)
 
-[WP IMPORT: BLOCKQUOTE] “In each stage, experts from outside the programme can interact in the screening process as individual advisors.” (NESTA, Guide)
+> “In each stage, experts from outside the programme can interact in the screening process as individual advisors.” (NESTA, Guide)
 
-[WP IMPORT: BLOCKQUOTE] “The use of a selection committee is common practice. These mostly comprise strategic partners, investors and in some cases even alumni and experts or mentors. Interviews can range from an hour–long grilling to a 20–minute informal chat, depending on the information being sought.” (NESTA, Guide)
+> “The use of a selection committee is common practice. These mostly comprise strategic partners, investors and in some cases even alumni and experts or mentors. Interviews can range from an hour–long grilling to a 20–minute informal chat, depending on the information being sought.” (NESTA, Guide)
 
 General selection processes have evolved over the years as accelerators have gained momentum within the startup community. As the applications pools reach the thousands, accelerators have begun to use video applications and alumni to manage the sheer volume. Some general selection examples can be found below.
 
@@ -298,7 +294,7 @@ Mentorship is ubiquitous among accelerators. At their best, mentors can provide 
 ### Mentor Recruitment
 > Mentors are rigorously screened on their background before entry and are typically serial entrepreneurs. They provide their time and expertise on a voluntary basis as part of the field’s pay–it–forward culture. Some are ad hoc mentors, some have a long–term commitment, while others even invest (earning them the nickname ‘business angels in disguise’). The quality of the mentors is typically assessed through feedback surveys completed by the startups. (NESTA, Guide)
 
-[WP IMPORT: BLOCKQUOTE] While all programs tended to use similar individuals as mentors, there is some evidence that program alumni are not very effective mentors and that including potential customers as mentors is a good idea. (GALI, Report)
+> While all programs tended to use similar individuals as mentors, there is some evidence that program alumni are not very effective mentors and that including potential customers as mentors is a good idea. (GALI, Report)
 
 For MIT’s VMS program, recruitment of mentors happens only through referrals. Mentors describe their motivations to join as follows: 
 Invited by a friend, attracted to getting to know interesting MIT start-ups.
@@ -360,19 +356,19 @@ Nurturing Innovation: Venture Acceleration Networks: A review of venture acceler
 
 Mentor Overload: An often cited benefit of accelerators comes from a phenomenon called “Mentor Overload”. This is the process of exposing startups to a high number of mentors and their respective opinions. 
 
-[WP IMPORT: BLOCKQUOTE] “High-performing programs connected entrepreneurs with a larger number of mentors.” (GALI, Report)
+> “High-performing programs connected entrepreneurs with a larger number of mentors.” (GALI, Report)
 
-[WP IMPORT: BLOCKQUOTE] “By meeting with many mentors in a short period of time, founders were able to distinguish outlying feedback and identify commonalities among seemingly conflicting advice.” (Susan L. Cohen, Study)
+> “By meeting with many mentors in a short period of time, founders were able to distinguish outlying feedback and identify commonalities among seemingly conflicting advice.” (Susan L. Cohen, Study)
 
-[WP IMPORT: BLOCKQUOTE] [On the benefits of mentor overload] “As the business grows, there are more points of stimuli, more agendas, more exogenous factors, and more potential whiplash. If you don’t build your own muscle around collecting, synthesizing, dealing with, and decided what to do with all the data that is coming at you, then you are going to have massive problems as your company scales up.” (Brad Feld, Article)
+> [On the benefits of mentor overload] “As the business grows, there are more points of stimuli, more agendas, more exogenous factors, and more potential whiplash. If you don’t build your own muscle around collecting, synthesizing, dealing with, and decided what to do with all the data that is coming at you, then you are going to have massive problems as your company scales up.” (Brad Feld, Article)
 
-[WP IMPORT: BLOCKQUOTE] “The director at Alder continued to explain the benefit of overloading founders with mentor feedback, That’s the way the real world works and we’re accelerating that. So your customers are going to do it to you; your family is going to do it to you; your investors are going to do it to you. Guess what? You’re the entrepreneur and you get to cook, right. That’s why you run the company and not us. And you have to be good at 58 communicating and you have to be good at taking all of that input and deciding what you want to do.” (Susan L. Cohen, Study)
+> “The director at Alder continued to explain the benefit of overloading founders with mentor feedback, That’s the way the real world works and we’re accelerating that. So your customers are going to do it to you; your family is going to do it to you; your investors are going to do it to you. Guess what? You’re the entrepreneur and you get to cook, right. That’s why you run the company and not us. And you have to be good at 58 communicating and you have to be good at taking all of that input and deciding what you want to do.” (Susan L. Cohen, Study)
 
-[WP IMPORT: BLOCKQUOTE] “When accelerators scheduled meetings for founders, the coordination costs for venture founders were negligible, which enabled ventures to meet with more mentors and more diverse mentors than when ventures initiated their own meetings.” (Susan L. Cohen, Study)
+> “When accelerators scheduled meetings for founders, the coordination costs for venture founders were negligible, which enabled ventures to meet with more mentors and more diverse mentors than when ventures initiated their own meetings.” (Susan L. Cohen, Study)
 
 While most people see this as a positive, be aware of potential repercussions: 
 
-[WP IMPORT: BLOCKQUOTE] “You cannot meet with a potential investor (me included) or mentor/advisor without getting a lot of feedback about your business. If you take many of those meetings a week, then you are going to get pushed and pulled in lots of different directions and it will cause confusion, wasted time and energy, and even a loss of confidence in what you set out to do.” (Fred Wilson, Article)
+> “You cannot meet with a potential investor (me included) or mentor/advisor without getting a lot of feedback about your business. If you take many of those meetings a week, then you are going to get pushed and pulled in lots of different directions and it will cause confusion, wasted time and energy, and even a loss of confidence in what you set out to do.” (Fred Wilson, Article)
 
 ### Considerations and Metrics
 Conflicts of Interest
@@ -390,9 +386,9 @@ Founders Ratings of Mentors
 # Post-Program Activities and Alumni Support
 Accelerators have the tendency to improve over time. A growing alumni network plays a huge role in expanding an accelerators connections and alumni will often reinvest their time and money back into the organization. Y Combinator goes so far as to give alumni a voice in their selection process.
 
-[WP IMPORT: BLOCKQUOTE] “Once an accelerator has developed over a number of years, the alumni network can be an important source for mentors and investors, as successful graduates are more likely to invest back into the community that support them in the first place.” (Phan, Mian, Lamine, Technology Entrepreneurship and Business Incubation)
+> “Once an accelerator has developed over a number of years, the alumni network can be an important source for mentors and investors, as successful graduates are more likely to invest back into the community that support them in the first place.” (Phan, Mian, Lamine, Technology Entrepreneurship and Business Incubation)
 
-[WP IMPORT: BLOCKQUOTE] “A strong alumni network serves as a significant asset and offers an important base of contacts and resources for future business development. Strong accelerator alumni networks have contributed to the progress and success of many startups.” (Seed Accelerator Rankings Project, Report)
+> “A strong alumni network serves as a significant asset and offers an important base of contacts and resources for future business development. Strong accelerator alumni networks have contributed to the progress and success of many startups.” (Seed Accelerator Rankings Project, Report)
 
 The infographic “Y Connector: How Y Combinator’s Powerful Alumni Network Operates” is an amazing visual representation of how these networks effects work in real life.
 
@@ -416,21 +412,21 @@ Aspen Institute, Report
 ## Founder Feedback
 Founder feedback is the bread and butter of any program that wants to experience continuous improvement.
 
-[WP IMPORT: BLOCKQUOTE] “One of the things we do is send a survey out to every company asking for anonymous feedback. You have no idea how much we read that. It’s so infrequent that you get a report card. The founders are our customers. That feedback is our report card. That’s kind of the base for how Y Combinator changes. The things that founders think we need to improve are the things we figure out how to improve for the next batch.” (Michael Seibel, Presentation (11:00)) 
+> “One of the things we do is send a survey out to every company asking for anonymous feedback. You have no idea how much we read that. It’s so infrequent that you get a report card. The founders are our customers. That feedback is our report card. That’s kind of the base for how Y Combinator changes. The things that founders think we need to improve are the things we figure out how to improve for the next batch.” (Michael Seibel, Presentation (11:00)) 
 
 
 ## Post-Program Startup-Corporate Involvement
 After the accelerator program comes to an end, corporations may want to increase their involvement with promising firms. 
 
-[WP IMPORT: BLOCKQUOTE] “Corporation supports pilot project: Funding the development of innovative solutions and products by startups rather than attempting to do so internally affords corporations the opportunity to explore innovation prospects at a lower cost, in a shorter timeframe, and with fewer risks in relation to the core business. Corporations may develop new products together with startups, explore market opportunities through startups, or solve business challenges via startups’ technology or talent.
+> “Corporation supports pilot project: Funding the development of innovative solutions and products by startups rather than attempting to do so internally affords corporations the opportunity to explore innovation prospects at a lower cost, in a shorter timeframe, and with fewer risks in relation to the core business. Corporations may develop new products together with startups, explore market opportunities through startups, or solve business challenges via startups’ technology or talent.
 
-[WP IMPORT: BLOCKQUOTE] Corporation becomes startup customer: Interaction with multiple startups during an accelerator program allows corporations to learn about different solutions to their business challenges. Mutual benefits result if the startup wins the company as a high-profile customer, and the corporation finds a solution to its pain points. Working with a large corporation can be an important step for startups to test their product-market fit and scale their operations.
+> Corporation becomes startup customer: Interaction with multiple startups during an accelerator program allows corporations to learn about different solutions to their business challenges. Mutual benefits result if the startup wins the company as a high-profile customer, and the corporation finds a solution to its pain points. Working with a large corporation can be an important step for startups to test their product-market fit and scale their operations.
 
-[WP IMPORT: BLOCKQUOTE] Corporation becomes distribution partner: Channel partnerships can be mutually beneficial in that they provide a joint solution for both the corporation and the startup. Rather than build out their own distribution networks, startups can thus offer their products through the companies.
+> Corporation becomes distribution partner: Channel partnerships can be mutually beneficial in that they provide a joint solution for both the corporation and the startup. Rather than build out their own distribution networks, startups can thus offer their products through the companies.
 
-[WP IMPORT: BLOCKQUOTE] Corporation invests in startup: Backing and supporting startups is beneficial for corporations as this provides them–—at lower capital requirement and higher speed compared to internal R&D–—with access to new markets and capabilities. At the same time, startups benefit from favorable terms relative to traditional sources of venture capital.
+> Corporation invests in startup: Backing and supporting startups is beneficial for corporations as this provides them–—at lower capital requirement and higher speed compared to internal R&D–—with access to new markets and capabilities. At the same time, startups benefit from favorable terms relative to traditional sources of venture capital.
 
-[WP IMPORT: BLOCKQUOTE] Corporation acquires startup: Acquiring startups is a quick and impactful way to solve specific business problems and enter new markets (Harrison, Hitt, Hoskisson, & Ireland, 2001). Rather than time-consuming scouting for individual startups, corporate accelerators allow for the rapid exploration of many startups that could be a target for acquisitions. For startups, acquisition is an appealing exit strategy.”
+> Corporation acquires startup: Acquiring startups is a quick and impactful way to solve specific business problems and enter new markets (Harrison, Hitt, Hoskisson, & Ireland, 2001). Rather than time-consuming scouting for individual startups, corporate accelerators allow for the rapid exploration of many startups that could be a target for acquisitions. For startups, acquisition is an appealing exit strategy.”
     Thomas Kohler, Study
 
 
@@ -447,7 +443,7 @@ The timelines of startups and corporations are on different sides of the spectru
 There are several models to reference in order to understand the time need to see an impact on a company’s core business. The three horizons of growth model, corporate accelerators exist around “horizon 3”.
 
  
-[WP IMPORT: BLOCKQUOTE] “Horizon 3 are much more flexible in their initiatives and their timeframes for contribution might be more in the 5-12 year timeframe.” (McKinsey, Podcast)
+> “Horizon 3 are much more flexible in their initiatives and their timeframes for contribution might be more in the 5-12 year timeframe.” (McKinsey, Podcast)
 
 In their report, “Incubators, Accelerators, Venturing, and More”, BCG suggests a 4-10 year timeframe for results from a incubator/accelerator. (Note:  BCG includes accelerators are included in the business incubation segment of this diagram)
 
@@ -463,37 +459,37 @@ Communication regarding innovation efforts with longer timelines needs to be cle
 Paresh: “So, what’s wrong about looking at the five-year horizon and doing that?”
 Dave: “I don’t think most corporates plan for that long. Certainly, most people running corporate accelerator programs, if you look at the trajectory on those, they often aren’t renewed for more than one or two years.” (Dave McClure, Panel Discussion)
 
-[WP IMPORT: BLOCKQUOTE] “When it comes to building the corporate accelerator, the organization should understand that the process requires time and continuous learning concerning what works best for the organization as well as the startups. Building a an accelerator is an exercise in “business building” in itself, and is in fact the first step towards an internal “business building” unit for the corporation. This is a concept which we believe will be standard in successful major corporations within the next 5 years.” (Deloitte, Report)
+> “When it comes to building the corporate accelerator, the organization should understand that the process requires time and continuous learning concerning what works best for the organization as well as the startups. Building a an accelerator is an exercise in “business building” in itself, and is in fact the first step towards an internal “business building” unit for the corporation. This is a concept which we believe will be standard in successful major corporations within the next 5 years.” (Deloitte, Report)
 
-[WP IMPORT: BLOCKQUOTE] “In this model, the organization understands the mechanisms of early-stage venturing and that meaningful financial results for early-stage ventures are typically achieved after 5-7 years. Thus, even if an accelerator were to double this result, a 2-4 year timeframe would still be needed. This type of accelerator requires a strong long-term financial commitment with lasting C-level and board support, anticipating that the accelerator will most likely be a cost center before achieving returns. Chancers are high that along the way, a significant number of startups will fold or fail to achieve acceptable results.” (Deloitte, Report)
+> “In this model, the organization understands the mechanisms of early-stage venturing and that meaningful financial results for early-stage ventures are typically achieved after 5-7 years. Thus, even if an accelerator were to double this result, a 2-4 year timeframe would still be needed. This type of accelerator requires a strong long-term financial commitment with lasting C-level and board support, anticipating that the accelerator will most likely be a cost center before achieving returns. Chancers are high that along the way, a significant number of startups will fold or fail to achieve acceptable results.” (Deloitte, Report)
 
 
 ## Budget Considerations
 The true value of accelerators appears with time. Running an accelerator for an extended period of time costs money. Accelerators will thrive in a corporation that has a combination of stable revenue and careful planning.
 
 ### Accelerator Costs
-[WP IMPORT: BLOCKQUOTE] “A rule of thumb for the financial estimation is to set aside 5-10% of the money that the organization would like to see a business to create. For example, if the goal is to build a 100 million $ business, the organization should be looking to set aside 5-10 million $ for building and running the accelerator.” (Deloitte, Report)
+> “A rule of thumb for the financial estimation is to set aside 5-10% of the money that the organization would like to see a business to create. For example, if the goal is to build a 100 million $ business, the organization should be looking to set aside 5-10 million $ for building and running the accelerator.” (Deloitte, Report)
 
-[WP IMPORT: BLOCKQUOTE] “Budgets to simply run the accelerator can range anywhere from $2M to $5M per year.  These expenses include third party vendors who may run the program, office space, marketing expenses and internal teams.” (Falguni Desai, Article)
+> “Budgets to simply run the accelerator can range anywhere from $2M to $5M per year.  These expenses include third party vendors who may run the program, office space, marketing expenses and internal teams.” (Falguni Desai, Article)
 
 ### R&D Costs
 While accelerators are by no means cheap, a look at research and development spending provides more context into exploration strategies.
 
 Image Source: INSERT 
 
-[WP IMPORT: BLOCKQUOTE] “As has been the case for each of the past seven years, the 10 most innovative companies continue to outperform the top 10 R&D spenders on key performance metrics. They surpassed their competitors on five-year revenue growth and did far better on EBITDA as a percentage of revenue and market capitalization growth — once again proving one of our key findings of the Global Innovation 1000 study: How you spend on innovation is more important than how much you spend.” (Strategy&, Report)
+> “As has been the case for each of the past seven years, the 10 most innovative companies continue to outperform the top 10 R&D spenders on key performance metrics. They surpassed their competitors on five-year revenue growth and did far better on EBITDA as a percentage of revenue and market capitalization growth — once again proving one of our key findings of the Global Innovation 1000 study: How you spend on innovation is more important than how much you spend.” (Strategy&, Report)
 
 Depending on strategic motives and company structure, the cost of accelerators (and corporate venturing as a whole) is well within reason.
 
-[WP IMPORT: BLOCKQUOTE] “A lot of what startups are about is experimentation. [Now] you can experiment at a cost of about a tenth of what it was a decade ago. [Businesses] can actually go out and get a sense of whether these things are going to be successful a lot more quickly and at a much lower cost.” (Yael Hochberg, Interview)
+> “A lot of what startups are about is experimentation. [Now] you can experiment at a cost of about a tenth of what it was a decade ago. [Businesses] can actually go out and get a sense of whether these things are going to be successful a lot more quickly and at a much lower cost.” (Yael Hochberg, Interview)
 
 ## Leadership & Structure
 Building a corporate accelerator into a long-standing business requires surgical precision. Proper leadership needs to be in place in order manage expectations and ensure that both corporation and accelerator are getting what they need.
 
 ### Leadership Insights
-[WP IMPORT: BLOCKQUOTE] “Companies should assemble their innovation-leadership team carefully, choosing executives who combine an entrepreneurial mind-set with a deep understanding of the company’s culture and structure. Their ability to operate comfortably and productively in both the start-up’s and the sponsoring company’s environments enables them to serve as an effective conduit between the company, its investment targets, and the wider world of startups and early-stage ventures.” (BCG, Report)
+> “Companies should assemble their innovation-leadership team carefully, choosing executives who combine an entrepreneurial mind-set with a deep understanding of the company’s culture and structure. Their ability to operate comfortably and productively in both the start-up’s and the sponsoring company’s environments enables them to serve as an effective conduit between the company, its investment targets, and the wider world of startups and early-stage ventures.” (BCG, Report)
 
-[WP IMPORT: BLOCKQUOTE] “The management of the corporate accelerator can either be the responsibility of someone with work experience in the parent company or of someone hired externally. We find examples of heads of corporate accelerators with more than 15 years of experience within the parent company and a large network of internal contacts, and others with experience in the startup ecosystem and a network of relevant external stakeholders, such as investors.” (Dominik Kanbach, Stephan Stubner, Article)
+> “The management of the corporate accelerator can either be the responsibility of someone with work experience in the parent company or of someone hired externally. We find examples of heads of corporate accelerators with more than 15 years of experience within the parent company and a large network of internal contacts, and others with experience in the startup ecosystem and a network of relevant external stakeholders, such as investors.” (Dominik Kanbach, Stephan Stubner, Article)
 
 ### Leadership Questions
 “Is the conversation of disruption one that the leadership of the company has embraced?
@@ -512,11 +508,11 @@ Image Source: The World Bank, Report
 ## BUSINESS STRUCTURE
 Where does accelerator live within a corporation? Where are promising startups integrated into?
 
-[WP IMPORT: BLOCKQUOTE] “Corporate accelerators are either integrated within the parent company organization as part of a specific business unit, such as digital or online business, or a specific department, such as innovation management, corporate strategy, or product development. This integration into one specific department also determines the reporting line of the accelerator management team, which usually reflects the objectives of the programs. As an alternative to integration into the parent company, the corporate accelerator can be launched as an independent organization in the form of an independent legal entity that usually acts as a 100% subsidiary of the parent company, ensuring a higher level of independence.” (Dominik Kanbach, Stephan Stubner, Article)
+> “Corporate accelerators are either integrated within the parent company organization as part of a specific business unit, such as digital or online business, or a specific department, such as innovation management, corporate strategy, or product development. This integration into one specific department also determines the reporting line of the accelerator management team, which usually reflects the objectives of the programs. As an alternative to integration into the parent company, the corporate accelerator can be launched as an independent organization in the form of an independent legal entity that usually acts as a 100% subsidiary of the parent company, ensuring a higher level of independence.” (Dominik Kanbach, Stephan Stubner, Article)
 
-[WP IMPORT: BLOCKQUOTE] “...I think sometimes the corporates have different activities that they’re doing that are not at all coordinated. So, they might have an accelerator program, they might have an innovation program, they might have a direct investment program, they might have a VC arm, and they might have acquisition, right? And I think all those should probably be coordinated.” (Dave McClure, Panel Discussion)
+> “...I think sometimes the corporates have different activities that they’re doing that are not at all coordinated. So, they might have an accelerator program, they might have an innovation program, they might have a direct investment program, they might have a VC arm, and they might have acquisition, right? And I think all those should probably be coordinated.” (Dave McClure, Panel Discussion)
 
-[WP IMPORT: BLOCKQUOTE] “With their position as the interface to the startup world, the corporate units running outside-in startup programs need to bridge the gap to the corporate world. Their job does not end with a successful prototype or proof-of-concept ready to be transferred to a regular business unit for market launch. Rather, they need to push this external innovation internally to make sure its market launch will eventually happen and the project’s results don’t go by the wayside. The organizational interface with the core business is hence a highly critical point in an outside-in program.” (Weiblen, Chesbrough, Article)
+> “With their position as the interface to the startup world, the corporate units running outside-in startup programs need to bridge the gap to the corporate world. Their job does not end with a successful prototype or proof-of-concept ready to be transferred to a regular business unit for market launch. Rather, they need to push this external innovation internally to make sure its market launch will eventually happen and the project’s results don’t go by the wayside. The organizational interface with the core business is hence a highly critical point in an outside-in program.” (Weiblen, Chesbrough, Article)
 
 
 
